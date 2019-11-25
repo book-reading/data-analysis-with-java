@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ReadingCSVFiles",
+      "request": "launch",
+      "mainClass": "dawj.chapter02.ReadingCSVFiles",
+      "projectName": "ReadingCSVFiles"
+    }
+  ]
+}
