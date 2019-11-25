@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HashMapExample",
+      "request": "launch",
+      "mainClass": "dawj.chapter02.HashMapExample",
+      "projectName": "HashMapExample"
+    }
+  ]
+}
